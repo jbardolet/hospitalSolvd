@@ -1,4 +1,4 @@
-package com.solvd.hospital.fileHW;
+package com.solvd.hospital.mixHW;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
